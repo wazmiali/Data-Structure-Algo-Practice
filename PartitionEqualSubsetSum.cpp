@@ -24,7 +24,7 @@ public:
         return equalPartition(arr, N - 1, targetSum) ||
                equalPartition(arr, N - 1, targetSum - arr[N - 1]);
     }
-    
+    // using a subset 
     bool canPartition(vector<int>& nums)
     {
         int N = nums.size();
@@ -38,3 +38,4 @@ public:
         return equalPartition(nums.data(), N, totalSum / 2);
     }
 };
+
