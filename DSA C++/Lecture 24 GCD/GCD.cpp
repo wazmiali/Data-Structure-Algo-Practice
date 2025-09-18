@@ -1,3 +1,4 @@
+// Greatest Common Divisor
 #include <iostream>
 using namespace std;
 
@@ -38,4 +39,5 @@ int main()
       cout << "The GCD of: " << a << " & " << b << " is " << ans << endl;
 
       return ans;
+
 }
