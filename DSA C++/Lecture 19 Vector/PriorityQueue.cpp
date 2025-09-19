@@ -26,9 +26,7 @@ int main()
             maxi.pop();
       }
       cout<<endl;
-
-
-
+// Push the element and insert
       mini.push(5);
       mini.push(1);
       mini.push(0);
@@ -42,5 +40,6 @@ int main()
             mini.pop();
       }
       cout<<endl;
+
 
 }
