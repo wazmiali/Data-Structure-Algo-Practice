@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
       // Array Index size is 10
-      int arr[10] = {0, 1};
+      int arr[10] = {0, 1, 2, 3, 4, 5};
 
       cout <<"address of first memory block is "<< arr << endl;
       cout << arr[1] <<endl;
@@ -15,3 +15,4 @@ int main()
       return 0;
 
 }
+
