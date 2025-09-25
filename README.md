@@ -17,11 +17,11 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 
 | Metric | Value |
 |---|---|
-| Total problems solved | *\<insert number\>* |
+| Total problems solved | *\< + \>* |
 | Languages used | C++ (primarily) |
 | Branches / workflows implemented | *\<e.g. “feature branching, pull request CI, automated tests”\>* |
-| Commits so far | *\<insert count\>* |
-| Last update | *\<date\>* |
+| Commits so far | *\* |
+| Last update | *\* |
 
 ---
 
