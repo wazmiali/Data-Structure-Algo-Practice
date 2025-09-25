@@ -17,7 +17,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 
 | Metric | Value |
 |---|---|
-| Total problems solved | * + * |
+| Total problems solved | + |
 | Languages used | C++ (primarily) |
 | Branches / workflows implemented | *\<e.g. “feature branching, pull request CI, automated tests”\>* |
 | Commits so far |  |
