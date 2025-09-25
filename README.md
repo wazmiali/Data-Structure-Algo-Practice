@@ -4,45 +4,66 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 
 ---
 
-## What’s Inside
+## 📂 Project Structure
 
-* 📂 `DSA C++/` → C++ solutions to problems.
-* 📄 `dsa.md` → Notes/log of solved problems.
-* 🔁 Daily commits to track progress.
-* ⚙️ DevOps workflow practice (git branching, CI/CD concepts).
-
----
-
-## Goals
-
-* Build strong consistency with daily coding.
-* Improve **problem-solving skills** using DSA.
-* Learn and practice **DevOps fundamentals**.
-* Keep a public log of growth.
+- `DSA C++/` → C++ solutions to algorithm & data structure problems  
+- `dsa.md` → Log / notes of solved problems  
+- `.github/workflows/` (or similar) → DevOps / CI/CD workflow files  
+- (other folders you might have, e.g. “scripts”, “tests”, “configs”, etc.)
 
 ---
 
-## Tech Stack
+## 🚀 Statistics
 
-* **Languages**: C++ (main).
-* **Tools**: Git, GitHub (DevOps practice).
-* **Focus Areas**: Algorithms, version control, workflows.
-
----
-
-## How to Use
-
-1. Browse `DSA C++/` for solutions.
-2. Use `dsa.md` to follow progress.
-3. Try solving problems yourself, then compare.
-4. Commit often — practice makes perfect.
+| Metric | Value |
+|---|---|
+| Total problems solved | *\<insert number\>* |
+| Languages used | C++ (primarily) |
+| Branches / workflows implemented | *\<e.g. “feature branching, pull request CI, automated tests”\>* |
+| Commits so far | *\<insert count\>* |
+| Last update | *\<date\>* |
 
 ---
 
-## Contribution
+## Goals & Philosophy
 
-* Fork → Solve/add problems → PR.
-* Keep file naming clear.
-* Add helpful comments in code.
+- Build consistency with **daily coding**  
+- Improve **problem-solving skills** using DSA  
+- Learn and practice **DevOps fundamentals** (CI/CD, branching strategies, workflow automations)  
+- Maintain a **public log of growth & progress**
 
 ---
+
+## Tech Stack & Tools
+
+- **Languages**: C++  
+- **Tools / Platforms**: Git, GitHub Actions (or whatever CI you use), docker / scripts / whatever tools you incorporate  
+- **Focus Areas**: Algorithms, version control, continuous integration, deployment flows, branching
+
+---
+
+## How to Use / Contribute
+
+1. Browse `DSA C++/` to see existing solutions.  
+2. Check `dsa.md` to see your progress / problems solved log.  
+3. Try solving a new problem, commit your solution, and update `dsa.md`.  
+4. Use branching & workflow practices — e.g. create a feature branch, open PR, let CI run, merge.  
+5. Feel free to contribute — fork the repo, add solutions / docs, open a PR.  
+6. Keep naming consistent, write clear comments in code.
+
+---
+
+## Badges (Optional)
+
+You can insert badges for things like:
+
+- GitHub stars / forks  
+- Build status (CI) badge  
+- Last commit  
+- License  
+
+Example:
+
+```md
+[![CI Status](https://github.com/<username>/<repo>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<repo>/actions)
+[![Stars](https://img.shields.io/github/stars/<username>/<repo>)](https://github.com/<username>/<repo>/stargazers)
