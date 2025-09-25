@@ -46,8 +46,3 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 * Add helpful comments in code.
 
 ---
-
-## License & Contact
-
-* Open source (add license if needed).
-* Contact via GitHub profile.
