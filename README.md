@@ -64,6 +64,7 @@ You can insert badges for things like:
 
 Example:
 
-```md
-[![CI Status](https://github.com/<username>/<repo>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<repo>/actions)
-[![Stars](https://img.shields.io/github/stars/<username>/<repo>)](https://github.com/<username>/<repo>/stargazers)
+[![CI Status](https://github.com/wazmiali/DevOps-Practice-DSA-Log/actions/workflows/ci.yml/badge.svg)](https://github.com/wazmiali/DevOps-Practice-DSA-Log/actions)
+[![Stars](https://img.shields.io/github/stars/wazmiali/DevOps-Practice-DSA-Log)](https://github.com/wazmiali/DevOps-Practice-DSA-Log/stargazers)
+
+--
