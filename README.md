@@ -20,8 +20,8 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Total problems solved | *\< + \>* |
 | Languages used | C++ (primarily) |
 | Branches / workflows implemented | *\<e.g. “feature branching, pull request CI, automated tests”\>* |
-| Commits so far | *\* |
-| Last update | *\* |
+| Commits so far |  |
+| Last update |  |
 
 ---
 
