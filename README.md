@@ -1,4 +1,4 @@
-# DevOps-Practice & DSA Log
+# Data-Structure-Algo-Practice
 
 A repository for **daily coding practice** in **DSA (C++)** along with experiments in **DevOps workflows**.
 
@@ -53,18 +53,9 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 
 ---
 
-## Badges (Optional)
+## Badges
 
-You can insert badges for things like:
+[![CI Status](https://github.com/wazmiali/Data-Structure-Algo-Practice/actions/workflows/ci.yml/badge.svg)](https://github.com/wazmiali/Data-Structure-Algo-Practice/actions)  
+[![Stars](https://img.shields.io/github/stars/wazmiali/Data-Structure-Algo-Practice)](https://github.com/wazmiali/Data-Structure-Algo-Practice/stargazers)
 
-- GitHub stars / forks  
-- Build status (CI) badge  
-- Last commit  
-- License  
-
-Example:
-
-[![CI Status](https://github.com/wazmiali/DevOps-Practice-DSA-Log/actions/workflows/ci.yml/badge.svg)](https://github.com/wazmiali/DevOps-Practice-DSA-Log/actions)
-[![Stars](https://img.shields.io/github/stars/wazmiali/DevOps-Practice-DSA-Log)](https://github.com/wazmiali/DevOps-Practice-DSA-Log/stargazers)
-
---
+---
