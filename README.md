@@ -37,7 +37,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Tech Stack & Tools
 
 - **Languages**: C++  
-- **Tools / Platforms**: Git, GitHub Actions (or whatever CI you use), docker / scripts / whatever tools you incorporate  
+- **Tools / Platforms**: Git, GitHub Actions VS code. 
 - **Focus Areas**: Algorithms, version control, continuous integration, deployment flows, branching
 
 ---
