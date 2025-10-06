@@ -1,4 +1,5 @@
 // Leader in an Array 
+// An element is a leader if it is greater than all elements to its right.
 
 #include <iostream>
 using namespace std;
@@ -26,4 +27,5 @@ int main(){
 
       return 0;
 }
+
 
