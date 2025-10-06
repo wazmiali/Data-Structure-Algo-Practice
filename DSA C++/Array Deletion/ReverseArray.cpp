@@ -1,3 +1,4 @@
+// Reverse an Array use a Naive approch 
 #include<iostream>
 using namespace std;
 
@@ -32,3 +33,4 @@ int main(){
       cout<<endl;
 
 }
+
