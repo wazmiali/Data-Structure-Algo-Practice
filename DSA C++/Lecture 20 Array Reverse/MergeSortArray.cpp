@@ -1,3 +1,4 @@
+// Merge the two array
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -56,4 +57,5 @@ int main()
       print(arr3, 8);
 
       return 0;
+
 }
