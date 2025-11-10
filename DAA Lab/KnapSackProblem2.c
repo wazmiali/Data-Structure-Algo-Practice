@@ -1,3 +1,5 @@
+// KnapSack Problem 0 to 1 
+
 #include <stdio.h>
 
 int max(int a, int b) {
@@ -36,3 +38,4 @@ int main() {
     printf("Maximum value in knapsack = %d\n", knapSack(W, wt, val, n));
     return 0;
 }
+
