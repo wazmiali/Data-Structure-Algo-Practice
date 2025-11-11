@@ -1,3 +1,4 @@
+// Happy Number
 class Solution {
 public:
     // Helper function to calculate sum of squares of digits
