@@ -1,18 +1,18 @@
-//Palindrome Number 
 class Solution {
 public:
     bool isPalindrome(int x) {
+    
         if (x < 0) return false;
 
-        long long sum = 0;
+        long long reversed = 0;
         int original = x;
 
         while (x != 0) {
-            int rem = x % 10;
-            sum = sum * 10 + rem;
-            x /= 10;
+            int digit = x % 10;         
+            reversed = reversed * 10 + digit; 
+            x /= 10;                   
         }
 
-        return sum == original;
+        return reversed == original;
     }
 };
