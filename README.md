@@ -47,7 +47,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 1. Browse `DSA C++/` to see existing solutions.  
 2. Check `dsa.md` to see your progress / problems solved log.  
 3. Try solving a new problem, commit your solution, and update `dsa.md`.  
-4. Use branching & workflow practices — e.g. create a feature branch, open PR, let CI run, merge.  
+4. Use branching & workflow practices — e.g. create a feature branch, open PR, let CI run merge.  
 5. Feel free to contribute — fork the repo, add solutions / docs, open a PR.  
 6. Keep naming consistent, write clear comments in code.
 
