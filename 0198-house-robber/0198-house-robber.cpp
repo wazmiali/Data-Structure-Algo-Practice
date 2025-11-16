@@ -1,4 +1,5 @@
-// Using Dp
+// house-robber
+// Using DP
 class Solution {
 public:
     int solve(vector<int>& nums, int size, int index, vector<int>& dp) {
