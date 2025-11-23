@@ -8,7 +8,7 @@ public:
             if (nums[left] % 2 > nums[right] % 2) {
                 swap(nums[left], nums[right]);
             }
-
+// check left and right
             if (nums[left] % 2 == 0) left++;
             if (nums[right] % 2 == 1) right--;
         }
