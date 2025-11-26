@@ -1,3 +1,5 @@
+
+// Minimum Spanning Tree
 #include<stdio.h>
 
 #define MAX 20
@@ -76,4 +78,5 @@ int main() {
     printf("\nTotal Weight of MST = %d\n", totalWeight);
 
     return 0;
+
 }
