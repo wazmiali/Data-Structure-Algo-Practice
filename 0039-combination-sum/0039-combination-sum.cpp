@@ -7,7 +7,7 @@ public:
         backtrack(candidates, target, 0, current, result);
         return result;
     }
-
+// Use Private
 private:
     void backtrack(vector<int>& candidates, int target, int start, 
                    vector<int>& current, vector<vector<int>>& result) {
