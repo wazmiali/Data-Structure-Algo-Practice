@@ -1,6 +1,6 @@
 # Data-Structure-Algo-Practice
 
-A repository for **daily coding practice** in **DSA (C++)** along with experiments in **DevOps workflows**.
+A repository for **daily coding practice** in **DSA (C++)** along with experiments in **DevOps workflow**.
 
 ---
 
