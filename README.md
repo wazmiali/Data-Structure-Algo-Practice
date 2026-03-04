@@ -66,4 +66,12 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0577-employee-bonus](https://github.com/wazmiali/devops-practice/tree/main/0577-employee-bonus/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/wazmiali/devops-practice/tree/main/0039-combination-sum/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/wazmiali/devops-practice/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
