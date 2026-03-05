@@ -74,4 +74,12 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/wazmiali/devops-practice/tree/main/0039-combination-sum/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/wazmiali/devops-practice/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/wazmiali/devops-practice/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
