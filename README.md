@@ -87,6 +87,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/wazmiali/devops-practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/wazmiali/devops-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Dynamic Programming
@@ -101,4 +102,8 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/wazmiali/devops-practice/tree/main/1980-find-unique-binary-string/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
