@@ -92,6 +92,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0344-reverse-string](https://github.com/wazmiali/devops-practice/tree/main/0344-reverse-string/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/wazmiali/devops-practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/wazmiali/devops-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Dynamic Programming
@@ -113,6 +114,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0344-reverse-string](https://github.com/wazmiali/devops-practice/tree/main/0344-reverse-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
