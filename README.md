@@ -72,6 +72,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/wazmiali/devops-practice/tree/main/0039-combination-sum/) | Medium |
 | [0136-single-number](https://github.com/wazmiali/devops-practice/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/wazmiali/devops-practice/tree/main/0268-missing-number/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/wazmiali/devops-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/wazmiali/devops-practice/tree/main/0268-missing-number/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/wazmiali/devops-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -113,4 +115,17 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/wazmiali/devops-practice/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/wazmiali/devops-practice/tree/main/0268-missing-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/wazmiali/devops-practice/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/wazmiali/devops-practice/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/wazmiali/devops-practice/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
