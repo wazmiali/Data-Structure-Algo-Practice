@@ -69,6 +69,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/wazmiali/devops-practice/tree/main/0039-combination-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/wazmiali/devops-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
@@ -105,5 +106,6 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
