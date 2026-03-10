@@ -71,6 +71,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/wazmiali/devops-practice/tree/main/0039-combination-sum/) | Medium |
+| [0136-single-number](https://github.com/wazmiali/devops-practice/tree/main/0136-single-number/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/wazmiali/devops-practice/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -108,4 +109,8 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/wazmiali/devops-practice/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
