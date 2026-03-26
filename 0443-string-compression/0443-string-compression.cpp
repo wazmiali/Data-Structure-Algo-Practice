@@ -1,4 +1,3 @@
-// string compress
 class Solution {
 public:
     int compress(vector<char>& chars) {
