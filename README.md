@@ -100,6 +100,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0033-search-in-rotated-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/wazmiali/devops-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/wazmiali/devops-practice/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/wazmiali/devops-practice/tree/main/0066-plus-one/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wazmiali/devops-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -137,6 +138,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/wazmiali/devops-practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0066-plus-one](https://github.com/wazmiali/devops-practice/tree/main/0066-plus-one/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
