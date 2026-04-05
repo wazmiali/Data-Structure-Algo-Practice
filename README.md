@@ -77,6 +77,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/wazmiali/devops-practice/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/wazmiali/devops-practice/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wazmiali/devops-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/wazmiali/devops-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/wazmiali/devops-practice/tree/main/0443-string-compression/) | Medium |
@@ -101,6 +102,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0035-search-insert-position](https://github.com/wazmiali/devops-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/wazmiali/devops-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/wazmiali/devops-practice/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/wazmiali/devops-practice/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wazmiali/devops-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -120,6 +122,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/wazmiali/devops-practice/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/wazmiali/devops-practice/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
