@@ -91,6 +91,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0128-longest-consecutive-sequence](https://github.com/wazmiali/devops-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/wazmiali/devops-practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -111,6 +112,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wazmiali/devops-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/wazmiali/devops-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Search
@@ -124,6 +126,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
