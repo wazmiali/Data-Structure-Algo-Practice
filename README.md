@@ -163,6 +163,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0002-add-two-numbers](https://github.com/wazmiali/devops-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/wazmiali/devops-practice/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/wazmiali/devops-practice/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/wazmiali/devops-practice/tree/main/0492-construct-the-rectangle/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -178,6 +179,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/wazmiali/devops-practice/tree/main/0072-edit-distance/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/wazmiali/devops-practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/wazmiali/devops-practice/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -230,4 +232,8 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
