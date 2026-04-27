@@ -68,6 +68,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0003-longest-substring-without-repeating-characters](https://github.com/wazmiali/devops-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/wazmiali/devops-practice/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/wazmiali/devops-practice/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/wazmiali/devops-practice/tree/main/0072-edit-distance/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/wazmiali/devops-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
@@ -163,6 +164,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0002-add-two-numbers](https://github.com/wazmiali/devops-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/wazmiali/devops-practice/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/wazmiali/devops-practice/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/wazmiali/devops-practice/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/wazmiali/devops-practice/tree/main/0492-construct-the-rectangle/) | Easy |
 ## Recursion
@@ -186,6 +188,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/wazmiali/devops-practice/tree/main/0067-add-binary/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/wazmiali/devops-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -236,4 +239,8 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/wazmiali/devops-practice/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
