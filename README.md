@@ -129,6 +129,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/wazmiali/devops-practice/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/wazmiali/devops-practice/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wazmiali/devops-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Prefix Sum
@@ -165,6 +166,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0007-reverse-integer](https://github.com/wazmiali/devops-practice/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/wazmiali/devops-practice/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/wazmiali/devops-practice/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/wazmiali/devops-practice/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/wazmiali/devops-practice/tree/main/0492-construct-the-rectangle/) | Easy |
 ## Recursion
