@@ -85,6 +85,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wazmiali/devops-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/wazmiali/devops-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/wazmiali/devops-practice/tree/main/0443-string-compression/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/wazmiali/devops-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/wazmiali/devops-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
@@ -160,6 +161,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0002-add-two-numbers](https://github.com/wazmiali/devops-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/wazmiali/devops-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/wazmiali/devops-practice/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/wazmiali/devops-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
