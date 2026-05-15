@@ -1,4 +1,3 @@
-// best-time-to-buy-and-sell-stock
 int maxProfit(int* prices, int pricesSize) {
     int minPrice = prices[0];
     int maxProfit = 0;
@@ -10,7 +9,7 @@ int maxProfit(int* prices, int pricesSize) {
             int profit = prices[i] - minPrice; 
             if (profit > maxProfit)
                 maxProfit = profit; 
-        }
+        } 
     }
 
     return maxProfit;
