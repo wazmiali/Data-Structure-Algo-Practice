@@ -81,6 +81,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0027-remove-element](https://github.com/wazmiali/devops-practice/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/wazmiali/devops-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/wazmiali/devops-practice/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wazmiali/devops-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/wazmiali/devops-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -110,6 +111,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0027-remove-element](https://github.com/wazmiali/devops-practice/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/wazmiali/devops-practice/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/wazmiali/devops-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/wazmiali/devops-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/wazmiali/devops-practice/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/wazmiali/devops-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -187,6 +189,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/wazmiali/devops-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/wazmiali/devops-practice/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wazmiali/devops-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -222,6 +225,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/wazmiali/devops-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -258,4 +262,8 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/wazmiali/devops-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/wazmiali/devops-practice/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
