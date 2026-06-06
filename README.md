@@ -236,12 +236,14 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0099-recover-binary-search-tree](https://github.com/wazmiali/devops-practice/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/wazmiali/devops-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0099-recover-binary-search-tree](https://github.com/wazmiali/devops-practice/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/wazmiali/devops-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
 | [0565-array-nesting](https://github.com/wazmiali/devops-practice/tree/main/0565-array-nesting/) | Medium |
@@ -249,6 +251,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0099-recover-binary-search-tree](https://github.com/wazmiali/devops-practice/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/wazmiali/devops-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
 ## Backtracking
@@ -282,4 +285,8 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/wazmiali/devops-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/wazmiali/devops-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/wazmiali/devops-practice/tree/main/0099-recover-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
