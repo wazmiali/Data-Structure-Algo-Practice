@@ -6,7 +6,7 @@ public:
 
     void recoverTree(TreeNode* root) {
         helper(root);
-        // Swap the values of the two wrong nodes
+
         swap(first->val, second->val);
     }
 
