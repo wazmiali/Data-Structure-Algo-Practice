@@ -71,6 +71,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0067-add-binary](https://github.com/wazmiali/devops-practice/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/wazmiali/devops-practice/tree/main/0072-edit-distance/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/wazmiali/devops-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/wazmiali/devops-practice/tree/main/0443-string-compression/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/wazmiali/devops-practice/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -96,6 +97,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0073-set-matrix-zeroes](https://github.com/wazmiali/devops-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/wazmiali/devops-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
+| [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/wazmiali/devops-practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -153,6 +155,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0056-merge-intervals](https://github.com/wazmiali/devops-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/wazmiali/devops-practice/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
+| [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -272,6 +275,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/wazmiali/devops-practice/tree/main/0067-add-binary/) | Easy |
+| [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
