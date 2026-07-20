@@ -70,6 +70,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0058-length-of-last-word](https://github.com/wazmiali/devops-practice/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/wazmiali/devops-practice/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/wazmiali/devops-practice/tree/main/0072-edit-distance/) | Medium |
+| [0179-largest-number](https://github.com/wazmiali/devops-practice/tree/main/0179-largest-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/wazmiali/devops-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
@@ -127,6 +128,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wazmiali/devops-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/wazmiali/devops-practice/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0565-array-nesting](https://github.com/wazmiali/devops-practice/tree/main/0565-array-nesting/) | Medium |
@@ -157,6 +159,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0056-merge-intervals](https://github.com/wazmiali/devops-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/wazmiali/devops-practice/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/wazmiali/devops-practice/tree/main/0179-largest-number/) | Medium |
 | [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
@@ -194,6 +197,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/wazmiali/devops-practice/tree/main/0179-largest-number/) | Medium |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
 | [0605-can-place-flowers](https://github.com/wazmiali/devops-practice/tree/main/0605-can-place-flowers/) | Easy |
 ## Dynamic Programming
