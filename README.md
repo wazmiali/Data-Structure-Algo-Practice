@@ -100,6 +100,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/wazmiali/devops-practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2615-sum-of-distances](https://github.com/wazmiali/devops-practice/tree/main/2615-sum-of-distances/) | Medium |
 ## Sliding Window
@@ -130,6 +131,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0565-array-nesting](https://github.com/wazmiali/devops-practice/tree/main/0565-array-nesting/) | Medium |
 | [0605-can-place-flowers](https://github.com/wazmiali/devops-practice/tree/main/0605-can-place-flowers/) | Easy |
+| [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/wazmiali/devops-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/wazmiali/devops-practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -171,6 +173,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0002-add-two-numbers](https://github.com/wazmiali/devops-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/wazmiali/devops-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/wazmiali/devops-practice/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/wazmiali/devops-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -230,6 +233,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/wazmiali/devops-practice/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -290,6 +294,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/wazmiali/devops-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/wazmiali/devops-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
