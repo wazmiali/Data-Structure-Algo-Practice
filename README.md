@@ -190,6 +190,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0067-add-binary](https://github.com/wazmiali/devops-practice/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/wazmiali/devops-practice/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0233-number-of-digit-one](https://github.com/wazmiali/devops-practice/tree/main/0233-number-of-digit-one/) | Hard |
 | [0492-construct-the-rectangle](https://github.com/wazmiali/devops-practice/tree/main/0492-construct-the-rectangle/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -197,6 +198,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0002-add-two-numbers](https://github.com/wazmiali/devops-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/wazmiali/devops-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/wazmiali/devops-practice/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0233-number-of-digit-one](https://github.com/wazmiali/devops-practice/tree/main/0233-number-of-digit-one/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +214,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0120-triangle](https://github.com/wazmiali/devops-practice/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wazmiali/devops-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/wazmiali/devops-practice/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0233-number-of-digit-one](https://github.com/wazmiali/devops-practice/tree/main/0233-number-of-digit-one/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/wazmiali/devops-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
