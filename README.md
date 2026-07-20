@@ -109,6 +109,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/wazmiali/devops-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/wazmiali/devops-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/wazmiali/devops-practice/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/wazmiali/devops-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0565-array-nesting](https://github.com/wazmiali/devops-practice/tree/main/0565-array-nesting/) | Medium |
 | [0605-can-place-flowers](https://github.com/wazmiali/devops-practice/tree/main/0605-can-place-flowers/) | Easy |
@@ -306,8 +308,17 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/wazmiali/devops-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/wazmiali/devops-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/wazmiali/devops-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/wazmiali/devops-practice/tree/main/0099-recover-binary-search-tree/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/wazmiali/devops-practice/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/wazmiali/devops-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
