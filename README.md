@@ -75,6 +75,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0316-remove-duplicate-letters](https://github.com/wazmiali/devops-practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/wazmiali/devops-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
+| [0394-decode-string](https://github.com/wazmiali/devops-practice/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/wazmiali/devops-practice/tree/main/0443-string-compression/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/wazmiali/devops-practice/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -201,6 +202,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0021-merge-two-sorted-lists](https://github.com/wazmiali/devops-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/wazmiali/devops-practice/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0233-number-of-digit-one](https://github.com/wazmiali/devops-practice/tree/main/0233-number-of-digit-one/) | Hard |
+| [0394-decode-string](https://github.com/wazmiali/devops-practice/tree/main/0394-decode-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +262,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0225-implement-stack-using-queues](https://github.com/wazmiali/devops-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/wazmiali/devops-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/wazmiali/devops-practice/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0394-decode-string](https://github.com/wazmiali/devops-practice/tree/main/0394-decode-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
