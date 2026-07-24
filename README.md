@@ -195,6 +195,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0233-number-of-digit-one](https://github.com/wazmiali/devops-practice/tree/main/0233-number-of-digit-one/) | Hard |
 | [0492-construct-the-rectangle](https://github.com/wazmiali/devops-practice/tree/main/0492-construct-the-rectangle/) | Easy |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/wazmiali/devops-practice/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +204,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0024-swap-nodes-in-pairs](https://github.com/wazmiali/devops-practice/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0233-number-of-digit-one](https://github.com/wazmiali/devops-practice/tree/main/0233-number-of-digit-one/) | Hard |
 | [0394-decode-string](https://github.com/wazmiali/devops-practice/tree/main/0394-decode-string/) | Medium |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/wazmiali/devops-practice/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +306,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0067-add-binary](https://github.com/wazmiali/devops-practice/tree/main/0067-add-binary/) | Easy |
 | [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/wazmiali/devops-practice/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
