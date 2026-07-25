@@ -342,7 +342,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0239-sliding-window-maximum](https://github.com/wazmiali/devops-practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/wazmiali) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
