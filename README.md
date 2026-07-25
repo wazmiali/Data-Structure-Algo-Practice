@@ -348,3 +348,4 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/wazmiali/devops-practice/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
