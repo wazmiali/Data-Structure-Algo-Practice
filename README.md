@@ -102,6 +102,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0128-longest-consecutive-sequence](https://github.com/wazmiali/devops-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
 | [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
+| [0398-random-pick-index](https://github.com/wazmiali/devops-practice/tree/main/0398-random-pick-index/) | Medium |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
@@ -194,6 +195,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0069-sqrtx](https://github.com/wazmiali/devops-practice/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0233-number-of-digit-one](https://github.com/wazmiali/devops-practice/tree/main/0233-number-of-digit-one/) | Hard |
+| [0398-random-pick-index](https://github.com/wazmiali/devops-practice/tree/main/0398-random-pick-index/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/wazmiali/devops-practice/tree/main/0492-construct-the-rectangle/) | Easy |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/wazmiali/devops-practice/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 ## Recursion
@@ -347,4 +349,12 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/wazmiali/devops-practice/tree/main/0933-number-of-recent-calls/) | Easy |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0398-random-pick-index](https://github.com/wazmiali/devops-practice/tree/main/0398-random-pick-index/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0398-random-pick-index](https://github.com/wazmiali/devops-practice/tree/main/0398-random-pick-index/) | Medium |
 <!---LeetCode Topics End-->
