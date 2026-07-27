@@ -266,6 +266,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0225-implement-stack-using-queues](https://github.com/wazmiali/devops-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/wazmiali/devops-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/wazmiali/devops-practice/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0341-flatten-nested-list-iterator](https://github.com/wazmiali/devops-practice/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0394-decode-string](https://github.com/wazmiali/devops-practice/tree/main/0394-decode-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -276,6 +277,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0111-minimum-depth-of-binary-tree](https://github.com/wazmiali/devops-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0341-flatten-nested-list-iterator](https://github.com/wazmiali/devops-practice/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +286,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0111-minimum-depth-of-binary-tree](https://github.com/wazmiali/devops-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0341-flatten-nested-list-iterator](https://github.com/wazmiali/devops-practice/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0565-array-nesting](https://github.com/wazmiali/devops-practice/tree/main/0565-array-nesting/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -324,6 +327,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/wazmiali/devops-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/wazmiali/devops-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0341-flatten-nested-list-iterator](https://github.com/wazmiali/devops-practice/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/wazmiali/devops-practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
@@ -332,6 +336,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0225-implement-stack-using-queues](https://github.com/wazmiali/devops-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/wazmiali/devops-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/wazmiali/devops-practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0341-flatten-nested-list-iterator](https://github.com/wazmiali/devops-practice/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/wazmiali/devops-practice/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -357,4 +362,8 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0398-random-pick-index](https://github.com/wazmiali/devops-practice/tree/main/0398-random-pick-index/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/wazmiali/devops-practice/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 <!---LeetCode Topics End-->
