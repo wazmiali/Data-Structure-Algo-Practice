@@ -250,10 +250,12 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/wazmiali/devops-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/wazmiali/devops-practice/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/wazmiali/devops-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/wazmiali/devops-practice/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Stack
@@ -278,6 +280,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/wazmiali/devops-practice/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/wazmiali/devops-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +291,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0145-binary-tree-postorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/wazmiali/devops-practice/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0565-array-nesting](https://github.com/wazmiali/devops-practice/tree/main/0565-array-nesting/) | Medium |
+| [0572-subtree-of-another-tree](https://github.com/wazmiali/devops-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +301,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0111-minimum-depth-of-binary-tree](https://github.com/wazmiali/devops-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/wazmiali/devops-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
