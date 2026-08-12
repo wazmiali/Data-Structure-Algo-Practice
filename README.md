@@ -293,6 +293,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0145-binary-tree-postorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/wazmiali/devops-practice/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/wazmiali/devops-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1609-even-odd-tree](https://github.com/wazmiali/devops-practice/tree/main/1609-even-odd-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +317,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/wazmiali/devops-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [1609-even-odd-tree](https://github.com/wazmiali/devops-practice/tree/main/1609-even-odd-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +339,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0102-binary-tree-level-order-traversal](https://github.com/wazmiali/devops-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/wazmiali/devops-practice/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/wazmiali/devops-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [1609-even-odd-tree](https://github.com/wazmiali/devops-practice/tree/main/1609-even-odd-tree/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
