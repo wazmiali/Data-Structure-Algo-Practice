@@ -90,6 +90,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0027-remove-element](https://github.com/wazmiali/devops-practice/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/wazmiali/devops-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/wazmiali/devops-practice/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/wazmiali/devops-practice/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wazmiali/devops-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/wazmiali/devops-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -195,6 +196,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0002-add-two-numbers](https://github.com/wazmiali/devops-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/wazmiali/devops-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/wazmiali/devops-practice/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/wazmiali/devops-practice/tree/main/0061-rotate-list/) | Medium |
 | [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/wazmiali/devops-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
