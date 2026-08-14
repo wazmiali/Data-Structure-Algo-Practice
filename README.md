@@ -79,6 +79,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0394-decode-string](https://github.com/wazmiali/devops-practice/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/wazmiali/devops-practice/tree/main/0443-string-compression/) | Medium |
+| [0796-rotate-string](https://github.com/wazmiali/devops-practice/tree/main/0796-rotate-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/wazmiali/devops-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/wazmiali/devops-practice/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/wazmiali/devops-practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -266,6 +267,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/wazmiali/devops-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0796-rotate-string](https://github.com/wazmiali/devops-practice/tree/main/0796-rotate-string/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/wazmiali/devops-practice/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
