@@ -152,6 +152,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0215-kth-largest-element-in-an-array](https://github.com/wazmiali/devops-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/wazmiali/devops-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/wazmiali/devops-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0506-relative-ranks](https://github.com/wazmiali/devops-practice/tree/main/0506-relative-ranks/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0565-array-nesting](https://github.com/wazmiali/devops-practice/tree/main/0565-array-nesting/) | Medium |
 | [0605-can-place-flowers](https://github.com/wazmiali/devops-practice/tree/main/0605-can-place-flowers/) | Easy |
@@ -189,6 +190,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0179-largest-number](https://github.com/wazmiali/devops-practice/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/wazmiali/devops-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
+| [0506-relative-ranks](https://github.com/wazmiali/devops-practice/tree/main/0506-relative-ranks/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/wazmiali/devops-practice/tree/main/1122-relative-sort-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/wazmiali/devops-practice/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -395,6 +397,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/wazmiali/devops-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/wazmiali/devops-practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0506-relative-ranks](https://github.com/wazmiali/devops-practice/tree/main/0506-relative-ranks/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
