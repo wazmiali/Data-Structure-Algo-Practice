@@ -148,6 +148,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/wazmiali/devops-practice/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/wazmiali/devops-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/wazmiali/devops-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0565-array-nesting](https://github.com/wazmiali/devops-practice/tree/main/0565-array-nesting/) | Medium |
@@ -183,6 +184,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0075-sort-colors](https://github.com/wazmiali/devops-practice/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/wazmiali/devops-practice/tree/main/0179-largest-number/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/wazmiali/devops-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/wazmiali/devops-practice/tree/main/1122-relative-sort-array/) | Easy |
@@ -191,6 +193,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/wazmiali/devops-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,6 +389,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/wazmiali/devops-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/wazmiali/devops-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -419,4 +423,8 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/wazmiali/devops-practice/tree/main/1122-relative-sort-array/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/wazmiali/devops-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
