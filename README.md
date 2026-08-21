@@ -79,6 +79,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0394-decode-string](https://github.com/wazmiali/devops-practice/tree/main/0394-decode-string/) | Medium |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/wazmiali/devops-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/wazmiali/devops-practice/tree/main/0443-string-compression/) | Medium |
 | [0796-rotate-string](https://github.com/wazmiali/devops-practice/tree/main/0796-rotate-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/wazmiali/devops-practice/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -115,6 +116,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0398-random-pick-index](https://github.com/wazmiali/devops-practice/tree/main/0398-random-pick-index/) | Medium |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/wazmiali/devops-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
 | [1122-relative-sort-array](https://github.com/wazmiali/devops-practice/tree/main/1122-relative-sort-array/) | Easy |
@@ -128,6 +130,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0003-longest-substring-without-repeating-characters](https://github.com/wazmiali/devops-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/wazmiali/devops-practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/wazmiali/devops-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/wazmiali/devops-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/wazmiali/devops-practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Array
