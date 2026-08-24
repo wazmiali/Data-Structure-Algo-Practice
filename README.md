@@ -170,6 +170,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0215-kth-largest-element-in-an-array](https://github.com/wazmiali/devops-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/wazmiali/devops-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/wazmiali/devops-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/wazmiali/devops-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/wazmiali/devops-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/wazmiali/devops-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0506-relative-ranks](https://github.com/wazmiali/devops-practice/tree/main/0506-relative-ranks/) | Easy |
@@ -201,6 +202,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/wazmiali/devops-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2615-sum-of-distances](https://github.com/wazmiali/devops-practice/tree/main/2615-sum-of-distances/) | Medium |
 ## Sorting
@@ -407,6 +409,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/wazmiali/devops-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/wazmiali/devops-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/wazmiali/devops-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/wazmiali/devops-practice/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/wazmiali/devops-practice/tree/main/0933-number-of-recent-calls/) | Easy |
