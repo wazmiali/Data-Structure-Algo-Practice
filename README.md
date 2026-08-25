@@ -179,6 +179,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0605-can-place-flowers](https://github.com/wazmiali/devops-practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/wazmiali/devops-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
+| [0724-find-pivot-index](https://github.com/wazmiali/devops-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0896-monotonic-array](https://github.com/wazmiali/devops-practice/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/wazmiali/devops-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -204,6 +205,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0209-minimum-size-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/wazmiali/devops-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/wazmiali/devops-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [2615-sum-of-distances](https://github.com/wazmiali/devops-practice/tree/main/2615-sum-of-distances/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
