@@ -186,6 +186,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0896-monotonic-array](https://github.com/wazmiali/devops-practice/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/wazmiali/devops-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1109-corporate-flight-bookings](https://github.com/wazmiali/devops-practice/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1122-relative-sort-array](https://github.com/wazmiali/devops-practice/tree/main/1122-relative-sort-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/wazmiali/devops-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/wazmiali/devops-practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -211,6 +212,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0523-continuous-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/wazmiali/devops-practice/tree/main/0724-find-pivot-index/) | Easy |
+| [1109-corporate-flight-bookings](https://github.com/wazmiali/devops-practice/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [2615-sum-of-distances](https://github.com/wazmiali/devops-practice/tree/main/2615-sum-of-distances/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
