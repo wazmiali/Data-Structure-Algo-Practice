@@ -201,6 +201,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/wazmiali/devops-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0278-first-bad-version](https://github.com/wazmiali/devops-practice/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/wazmiali/devops-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/wazmiali/devops-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Prefix Sum
@@ -494,4 +495,8 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/wazmiali/devops-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/wazmiali/devops-practice/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
