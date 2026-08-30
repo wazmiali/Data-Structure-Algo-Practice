@@ -87,6 +87,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [1143-longest-common-subsequence](https://github.com/wazmiali/devops-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/wazmiali/devops-practice/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/wazmiali/devops-practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2938-separate-black-and-white-balls](https://github.com/wazmiali/devops-practice/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/wazmiali/devops-practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0876-middle-of-the-linked-list](https://github.com/wazmiali/devops-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/wazmiali/devops-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/wazmiali/devops-practice/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +292,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0316-remove-duplicate-letters](https://github.com/wazmiali/devops-practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
 | [0605-can-place-flowers](https://github.com/wazmiali/devops-practice/tree/main/0605-can-place-flowers/) | Easy |
+| [2938-separate-black-and-white-balls](https://github.com/wazmiali/devops-practice/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
