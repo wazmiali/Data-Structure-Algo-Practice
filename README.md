@@ -186,6 +186,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0643-maximum-average-subarray-i](https://github.com/wazmiali/devops-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
 | [0724-find-pivot-index](https://github.com/wazmiali/devops-practice/tree/main/0724-find-pivot-index/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/wazmiali/devops-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/wazmiali/devops-practice/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/wazmiali/devops-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -208,6 +209,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0278-first-bad-version](https://github.com/wazmiali/devops-practice/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/wazmiali/devops-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/wazmiali/devops-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/wazmiali/devops-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
