@@ -178,6 +178,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0303-range-sum-query-immutable](https://github.com/wazmiali/devops-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/wazmiali/devops-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/wazmiali/devops-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/wazmiali/devops-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0506-relative-ranks](https://github.com/wazmiali/devops-practice/tree/main/0506-relative-ranks/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -210,6 +211,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0278-first-bad-version](https://github.com/wazmiali/devops-practice/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/wazmiali/devops-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/wazmiali/devops-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/wazmiali/devops-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/wazmiali/devops-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/wazmiali/devops-practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Prefix Sum
@@ -218,6 +220,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0209-minimum-size-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/wazmiali/devops-practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/wazmiali/devops-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/wazmiali/devops-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/wazmiali/devops-practice/tree/main/0724-find-pivot-index/) | Easy |
@@ -295,6 +298,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0179-largest-number](https://github.com/wazmiali/devops-practice/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/wazmiali/devops-practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/wazmiali/devops-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0605-can-place-flowers](https://github.com/wazmiali/devops-practice/tree/main/0605-can-place-flowers/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/wazmiali/devops-practice/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Dynamic Programming
@@ -310,6 +314,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wazmiali/devops-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/wazmiali/devops-practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0233-number-of-digit-one](https://github.com/wazmiali/devops-practice/tree/main/0233-number-of-digit-one/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/wazmiali/devops-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/wazmiali/devops-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
