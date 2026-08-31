@@ -190,6 +190,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0896-monotonic-array](https://github.com/wazmiali/devops-practice/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/wazmiali/devops-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/wazmiali/devops-practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/wazmiali/devops-practice/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1122-relative-sort-array](https://github.com/wazmiali/devops-practice/tree/main/1122-relative-sort-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/wazmiali/devops-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -210,6 +211,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0287-find-the-duplicate-number](https://github.com/wazmiali/devops-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/wazmiali/devops-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/wazmiali/devops-practice/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/wazmiali/devops-practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
