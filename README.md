@@ -155,6 +155,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0046-permutations](https://github.com/wazmiali/devops-practice/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/wazmiali/devops-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/wazmiali/devops-practice/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/wazmiali/devops-practice/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/wazmiali/devops-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/wazmiali/devops-practice/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/wazmiali/devops-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -294,6 +295,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/wazmiali/devops-practice/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/wazmiali/devops-practice/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/wazmiali/devops-practice/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/wazmiali/devops-practice/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/wazmiali/devops-practice/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -307,6 +309,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0032-longest-valid-parentheses](https://github.com/wazmiali/devops-practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/wazmiali/devops-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/wazmiali/devops-practice/tree/main/0045-jump-game-ii/) | Medium |
+| [0055-jump-game](https://github.com/wazmiali/devops-practice/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/wazmiali/devops-practice/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/wazmiali/devops-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
