@@ -164,6 +164,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0120-triangle](https://github.com/wazmiali/devops-practice/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wazmiali/devops-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/wazmiali/devops-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0134-gas-station](https://github.com/wazmiali/devops-practice/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/wazmiali/devops-practice/tree/main/0135-candy/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/wazmiali/devops-practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -296,6 +297,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/wazmiali/devops-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/wazmiali/devops-practice/tree/main/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/wazmiali/devops-practice/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/wazmiali/devops-practice/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/wazmiali/devops-practice/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/wazmiali/devops-practice/tree/main/0316-remove-duplicate-letters/) | Medium |
