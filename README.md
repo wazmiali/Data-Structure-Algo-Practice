@@ -102,6 +102,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0345-reverse-vowels-of-a-string](https://github.com/wazmiali/devops-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/wazmiali/devops-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0443-string-compression](https://github.com/wazmiali/devops-practice/tree/main/0443-string-compression/) | Medium |
+| [0455-assign-cookies](https://github.com/wazmiali/devops-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/wazmiali/devops-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/wazmiali/devops-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -181,6 +182,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0347-top-k-frequent-elements](https://github.com/wazmiali/devops-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/wazmiali/devops-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/wazmiali/devops-practice/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/wazmiali/devops-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/wazmiali/devops-practice/tree/main/0506-relative-ranks/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -241,6 +243,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0347-top-k-frequent-elements](https://github.com/wazmiali/devops-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/wazmiali/devops-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
+| [0455-assign-cookies](https://github.com/wazmiali/devops-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0506-relative-ranks](https://github.com/wazmiali/devops-practice/tree/main/0506-relative-ranks/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1122-relative-sort-array](https://github.com/wazmiali/devops-practice/tree/main/1122-relative-sort-array/) | Easy |
@@ -303,6 +306,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0316-remove-duplicate-letters](https://github.com/wazmiali/devops-practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/wazmiali/devops-practice/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/wazmiali/devops-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/wazmiali/devops-practice/tree/main/0605-can-place-flowers/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/wazmiali/devops-practice/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Dynamic Programming
@@ -491,6 +495,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/wazmiali/devops-practice/tree/main/0455-assign-cookies/) | Easy |
 | [1122-relative-sort-array](https://github.com/wazmiali/devops-practice/tree/main/1122-relative-sort-array/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
