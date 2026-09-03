@@ -83,6 +83,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0424-longest-repeating-character-replacement](https://github.com/wazmiali/devops-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/wazmiali/devops-practice/tree/main/0443-string-compression/) | Medium |
+| [0763-partition-labels](https://github.com/wazmiali/devops-practice/tree/main/0763-partition-labels/) | Medium |
 | [0796-rotate-string](https://github.com/wazmiali/devops-practice/tree/main/0796-rotate-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/wazmiali/devops-practice/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/wazmiali/devops-practice/tree/main/1392-longest-happy-prefix/) | Hard |
@@ -103,6 +104,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0349-intersection-of-two-arrays](https://github.com/wazmiali/devops-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0443-string-compression](https://github.com/wazmiali/devops-practice/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/wazmiali/devops-practice/tree/main/0455-assign-cookies/) | Easy |
+| [0763-partition-labels](https://github.com/wazmiali/devops-practice/tree/main/0763-partition-labels/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/wazmiali/devops-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/wazmiali/devops-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/wazmiali/devops-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -127,6 +129,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0523-continuous-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
+| [0763-partition-labels](https://github.com/wazmiali/devops-practice/tree/main/0763-partition-labels/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/wazmiali/devops-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1122-relative-sort-array](https://github.com/wazmiali/devops-practice/tree/main/1122-relative-sort-array/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/wazmiali/devops-practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -311,6 +314,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0435-non-overlapping-intervals](https://github.com/wazmiali/devops-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/wazmiali/devops-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/wazmiali/devops-practice/tree/main/0605-can-place-flowers/) | Easy |
+| [0763-partition-labels](https://github.com/wazmiali/devops-practice/tree/main/0763-partition-labels/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/wazmiali/devops-practice/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
