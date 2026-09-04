@@ -158,6 +158,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0045-jump-game-ii](https://github.com/wazmiali/devops-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/wazmiali/devops-practice/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/wazmiali/devops-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/wazmiali/devops-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/wazmiali/devops-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/wazmiali/devops-practice/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/wazmiali/devops-practice/tree/main/0056-merge-intervals/) | Medium |
@@ -256,6 +257,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/wazmiali/devops-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/wazmiali/devops-practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/wazmiali/devops-practice/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/wazmiali/devops-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -322,6 +324,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0032-longest-valid-parentheses](https://github.com/wazmiali/devops-practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/wazmiali/devops-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/wazmiali/devops-practice/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/wazmiali/devops-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/wazmiali/devops-practice/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/wazmiali/devops-practice/tree/main/0072-edit-distance/) | Medium |
