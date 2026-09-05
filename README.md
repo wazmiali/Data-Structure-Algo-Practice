@@ -74,6 +74,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0072-edit-distance](https://github.com/wazmiali/devops-practice/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/wazmiali/devops-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0179-largest-number](https://github.com/wazmiali/devops-practice/tree/main/0179-largest-number/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/wazmiali/devops-practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/wazmiali/devops-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/wazmiali/devops-practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/wazmiali/devops-practice/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -288,6 +289,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/wazmiali/devops-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0233-number-of-digit-one](https://github.com/wazmiali/devops-practice/tree/main/0233-number-of-digit-one/) | Hard |
+| [0241-different-ways-to-add-parentheses](https://github.com/wazmiali/devops-practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0398-random-pick-index](https://github.com/wazmiali/devops-practice/tree/main/0398-random-pick-index/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/wazmiali/devops-practice/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -300,6 +302,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0024-swap-nodes-in-pairs](https://github.com/wazmiali/devops-practice/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/wazmiali/devops-practice/tree/main/0050-powx-n/) | Medium |
 | [0233-number-of-digit-one](https://github.com/wazmiali/devops-practice/tree/main/0233-number-of-digit-one/) | Hard |
+| [0241-different-ways-to-add-parentheses](https://github.com/wazmiali/devops-practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0394-decode-string](https://github.com/wazmiali/devops-practice/tree/main/0394-decode-string/) | Medium |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/wazmiali/devops-practice/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 ## Greedy
@@ -333,6 +336,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wazmiali/devops-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/wazmiali/devops-practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0233-number-of-digit-one](https://github.com/wazmiali/devops-practice/tree/main/0233-number-of-digit-one/) | Hard |
+| [0241-different-ways-to-add-parentheses](https://github.com/wazmiali/devops-practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/wazmiali/devops-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/wazmiali/devops-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/wazmiali/devops-practice/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -430,6 +434,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/wazmiali/devops-practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -534,4 +539,8 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/wazmiali/devops-practice/tree/main/0278-first-bad-version/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/wazmiali/devops-practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 <!---LeetCode Topics End-->
