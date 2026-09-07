@@ -433,6 +433,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/wazmiali/devops-practice/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/wazmiali/devops-practice/tree/main/0077-combinations/) | Medium |
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
