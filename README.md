@@ -278,6 +278,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0021-merge-two-sorted-lists](https://github.com/wazmiali/devops-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/wazmiali/devops-practice/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/wazmiali/devops-practice/tree/main/0061-rotate-list/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/wazmiali/devops-practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/wazmiali/devops-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
@@ -383,6 +384,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0032-longest-valid-parentheses](https://github.com/wazmiali/devops-practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/wazmiali/devops-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/wazmiali/devops-practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/wazmiali/devops-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/wazmiali/devops-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -401,6 +403,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/wazmiali/devops-practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/wazmiali/devops-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/wazmiali/devops-practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/wazmiali/devops-practice/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/wazmiali/devops-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -413,6 +416,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0099-recover-binary-search-tree](https://github.com/wazmiali/devops-practice/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/wazmiali/devops-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/wazmiali/devops-practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0341-flatten-nested-list-iterator](https://github.com/wazmiali/devops-practice/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0565-array-nesting](https://github.com/wazmiali/devops-practice/tree/main/0565-array-nesting/) | Medium |
@@ -429,6 +433,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/wazmiali/devops-practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/wazmiali/devops-practice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/wazmiali/devops-practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/wazmiali/devops-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/wazmiali/devops-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/wazmiali/devops-practice/tree/main/1609-even-odd-tree/) | Medium |
