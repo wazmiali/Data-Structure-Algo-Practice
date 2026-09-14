@@ -158,6 +158,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0042-trapping-rain-water](https://github.com/wazmiali/devops-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/wazmiali/devops-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/wazmiali/devops-practice/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/wazmiali/devops-practice/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/wazmiali/devops-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/wazmiali/devops-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/wazmiali/devops-practice/tree/main/0054-spiral-matrix/) | Medium |
@@ -241,6 +242,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/wazmiali/devops-practice/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/wazmiali/devops-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/wazmiali/devops-practice/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/wazmiali/devops-practice/tree/main/0075-sort-colors/) | Medium |
@@ -441,6 +443,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/wazmiali/devops-practice/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/wazmiali/devops-practice/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/wazmiali/devops-practice/tree/main/0077-combinations/) | Medium |
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
 ## Memoization
