@@ -73,6 +73,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0067-add-binary](https://github.com/wazmiali/devops-practice/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/wazmiali/devops-practice/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/wazmiali/devops-practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/wazmiali/devops-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0179-largest-number](https://github.com/wazmiali/devops-practice/tree/main/0179-largest-number/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/wazmiali/devops-practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/wazmiali/devops-practice/tree/main/0242-valid-anagram/) | Easy |
@@ -341,6 +342,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0096-unique-binary-search-trees](https://github.com/wazmiali/devops-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0120-triangle](https://github.com/wazmiali/devops-practice/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wazmiali/devops-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/wazmiali/devops-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/wazmiali/devops-practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0233-number-of-digit-one](https://github.com/wazmiali/devops-practice/tree/main/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/wazmiali/devops-practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
@@ -448,6 +450,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0077-combinations](https://github.com/wazmiali/devops-practice/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/wazmiali/devops-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/wazmiali/devops-practice/tree/main/0113-path-sum-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/wazmiali/devops-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
