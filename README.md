@@ -187,6 +187,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0239-sliding-window-maximum](https://github.com/wazmiali/devops-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/wazmiali/devops-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/wazmiali/devops-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/wazmiali/devops-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/wazmiali/devops-practice/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/wazmiali/devops-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/wazmiali/devops-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -225,6 +226,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0240-search-a-2d-matrix-ii](https://github.com/wazmiali/devops-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/wazmiali/devops-practice/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/wazmiali/devops-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/wazmiali/devops-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/wazmiali/devops-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/wazmiali/devops-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/wazmiali/devops-practice/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -346,6 +348,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0152-maximum-product-subarray](https://github.com/wazmiali/devops-practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0233-number-of-digit-one](https://github.com/wazmiali/devops-practice/tree/main/0233-number-of-digit-one/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/wazmiali/devops-practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/wazmiali/devops-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/wazmiali/devops-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/wazmiali/devops-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/wazmiali/devops-practice/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -566,4 +569,8 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/wazmiali/devops-practice/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/wazmiali/devops-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
