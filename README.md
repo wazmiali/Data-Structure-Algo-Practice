@@ -293,6 +293,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0002-add-two-numbers](https://github.com/wazmiali/devops-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/wazmiali/devops-practice/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/wazmiali/devops-practice/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/wazmiali/devops-practice/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/wazmiali/devops-practice/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/wazmiali/devops-practice/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/wazmiali/devops-practice/tree/main/0069-sqrtx/) | Easy |
@@ -339,6 +340,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0045-jump-game-ii](https://github.com/wazmiali/devops-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/wazmiali/devops-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/wazmiali/devops-practice/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/wazmiali/devops-practice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/wazmiali/devops-practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/wazmiali/devops-practice/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/wazmiali/devops-practice/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -575,4 +577,8 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/wazmiali/devops-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/wazmiali/devops-practice/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
