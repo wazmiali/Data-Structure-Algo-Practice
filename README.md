@@ -210,6 +210,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/wazmiali/devops-practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/wazmiali/devops-practice/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1122-relative-sort-array](https://github.com/wazmiali/devops-practice/tree/main/1122-relative-sort-array/) | Easy |
+| [1310-xor-queries-of-a-subarray](https://github.com/wazmiali/devops-practice/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/wazmiali/devops-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/wazmiali/devops-practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/wazmiali/devops-practice/tree/main/2615-sum-of-distances/) | Medium |
@@ -243,6 +244,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/wazmiali/devops-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [1109-corporate-flight-bookings](https://github.com/wazmiali/devops-practice/tree/main/1109-corporate-flight-bookings/) | Medium |
+| [1310-xor-queries-of-a-subarray](https://github.com/wazmiali/devops-practice/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [2615-sum-of-distances](https://github.com/wazmiali/devops-practice/tree/main/2615-sum-of-distances/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -472,6 +474,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0287-find-the-duplicate-number](https://github.com/wazmiali/devops-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/wazmiali/devops-practice/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/wazmiali/devops-practice/tree/main/0389-find-the-difference/) | Easy |
+| [1310-xor-queries-of-a-subarray](https://github.com/wazmiali/devops-practice/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/wazmiali/devops-practice/tree/main/3307-find-the-k-th-character-in-string-game-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
