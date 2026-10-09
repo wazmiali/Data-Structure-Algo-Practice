@@ -128,6 +128,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0409-longest-palindrome](https://github.com/wazmiali/devops-practice/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/wazmiali/devops-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/wazmiali/devops-practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/wazmiali/devops-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0705-design-hashset](https://github.com/wazmiali/devops-practice/tree/main/0705-design-hashset/) | Easy |
@@ -195,6 +196,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0416-partition-equal-subset-sum](https://github.com/wazmiali/devops-practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/wazmiali/devops-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/wazmiali/devops-practice/tree/main/0455-assign-cookies/) | Easy |
+| [0496-next-greater-element-i](https://github.com/wazmiali/devops-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/wazmiali/devops-practice/tree/main/0506-relative-ranks/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/wazmiali/devops-practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/wazmiali/devops-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -406,6 +408,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | [0316-remove-duplicate-letters](https://github.com/wazmiali/devops-practice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/wazmiali/devops-practice/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0394-decode-string](https://github.com/wazmiali/devops-practice/tree/main/0394-decode-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/wazmiali/devops-practice/tree/main/0496-next-greater-element-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -488,6 +491,7 @@ A repository for **daily coding practice** in **DSA (C++)** along with experimen
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/wazmiali/devops-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/wazmiali/devops-practice/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0496-next-greater-element-i](https://github.com/wazmiali/devops-practice/tree/main/0496-next-greater-element-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
